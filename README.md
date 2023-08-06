@@ -29,6 +29,10 @@ Window functions in SQL are a powerful feature that allows you to perform calcul
 ![ex 1](https://github.com/izhangit/SQL-Window-Functions/assets/108143680/36bedf87-f47b-433e-bcc2-2bf6fdb3deb9)
 
 
+
+![syntax](https://github.com/izhangit/SQL-Window-Functions/assets/108143680/d325a3ac-41f3-4826-8d1d-dcadd101c257)
+
+
 ![ex](https://github.com/izhangit/SQL-Window-Functions/assets/108143680/2202d323-bc56-4614-9d90-9509d898e421)
 
 
